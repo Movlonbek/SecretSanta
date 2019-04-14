@@ -1,3 +1,0 @@
-Sabuz=1
-Zan=66
-Syed=1
